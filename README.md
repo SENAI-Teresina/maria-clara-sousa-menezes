@@ -1,4 +1,3 @@
-```markdown
 # Tutorial para subir os exercícios:
 
 ## Tutorial para Alunos que Já Tinham um Repositório Existente:
