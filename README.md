@@ -115,8 +115,3 @@ git push -u origin master
 ```
 
 ---
-
-Esses tutoriais devem ajudar os alunos a criar um repositório, configurá-lo para apontar para o repositório fornecido e organizar suas pastas de acordo com as aulas. Se houver mais alguma dúvida ou precisar de mais assistência, sinta-se à vontade para perguntar!
-```
-
-Este é o texto completo em Markdown dos tutoriais para alunos que já tinham um repositório existente e para alunos que não tinham um repositório. Se precisar de mais alguma coisa, estou à disposição para ajudar!
