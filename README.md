@@ -1,6 +1,6 @@
 # Tutorial para subir os exercícios:
 
-## Tutorial para Alunos que Já Tinham um Repositório Existente:
+## Tutorial para Alunos que já possuem um Repositório:
 
 ### Passo 1: Alterar o Remote do Repositório Existente
 
@@ -54,7 +54,7 @@ git push origin master
 
 ---
 
-## Tutorial para Alunos que Não Tinham um Repositório:
+## Tutorial para Alunos que não possuem um Repositório:
 
 ### Passo 1: Criar um Novo Repositório Local
 
